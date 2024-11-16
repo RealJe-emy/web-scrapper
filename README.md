@@ -11,6 +11,7 @@ Features
 Requirements
 
     Python 3.x
+    IDE ofcourse
     BeautifulSoup: Install via pip install beautifulsoup4
 
 Usage
